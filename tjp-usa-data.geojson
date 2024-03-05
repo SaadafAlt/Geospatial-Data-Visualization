@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "May-21",
+        "Month": "5",
         "Total_job_postings": 8973,
         "City": "Atlanta"
       },
@@ -16,7 +16,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Jun-21",
+        "Month": "6",
         "Total_job_postings": 7748,
         "City": "Atlanta"
       },
@@ -28,7 +28,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Jul-21",
+        "Month": "7",
         "Total_job_postings": 7332,
         "City": "Atlanta"
       },
@@ -40,7 +40,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Aug-21",
+        "Month": "8",
         "Total_job_postings": 7258,
         "City": "Atlanta"
       },
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Sep-21",
+        "Month": "9",
         "Total_job_postings": 7073,
         "City": "Atlanta"
       },
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Oct-21",
+        "Month": "10",
         "Total_job_postings": 7529,
         "City": "Atlanta"
       },
@@ -76,7 +76,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Nov-21",
+        "Month": "11",
         "Total_job_postings": 8523,
         "City": "Atlanta"
       },
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Dec-21",
+        "Month": "12",
         "Total_job_postings": 8476,
         "City": "Atlanta"
       },
@@ -100,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Jan-22",
+        "Month": "1",
         "Total_job_postings": 7807,
         "City": "Atlanta"
       },
@@ -112,7 +112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Feb-22",
+        "Month": "2",
         "Total_job_postings": 7003,
         "City": "Atlanta"
       },
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Mar-22",
+        "Month": "3",
         "Total_job_postings": 7947,
         "City": "Atlanta"
       },
@@ -136,7 +136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Apr-22",
+        "Month": "4",
         "Total_job_postings": 8056,
         "City": "Atlanta"
       },
@@ -148,7 +148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "May-22",
+        "Month": "5",
         "Total_job_postings": 7274,
         "City": "Atlanta"
       },
@@ -160,7 +160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Jun-22",
+        "Month": "6",
         "Total_job_postings": 6696,
         "City": "Atlanta"
       },
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Jul-22",
+        "Month": "7",
         "Total_job_postings": 7118,
         "City": "Atlanta"
       },
@@ -184,7 +184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Aug-22",
+        "Month": "8",
         "Total_job_postings": 6390,
         "City": "Atlanta"
       },
@@ -196,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Sep-22",
+        "Month": "9",
         "Total_job_postings": 7023,
         "City": "Atlanta"
       },
@@ -208,7 +208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Month": "Oct-22",
+        "Month": "10",
         "Total_job_postings": 6336,
         "City": "Atlanta"
       },
