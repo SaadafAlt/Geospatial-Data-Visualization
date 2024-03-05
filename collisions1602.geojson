@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "properties": {
+        "Injured": 1,
+        "Killed": 0,
+        "Factor1": "Unspecified",
+        "Hour": 18,
+        "Day": "Fri",
+        "Casualty": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9066122, 40.7453924]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Injured": 0,
+        "Killed": 0,
+        "Factor1": "Unspecified",
+        "Hour": 19,
+        "Day": "Fri",
+        "Casualty": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8427393, 40.8794247]
+      }
+    }]
+}
