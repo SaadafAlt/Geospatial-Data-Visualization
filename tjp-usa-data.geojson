@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "May-21",
+        "Total_job_postings": 8973,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Jun-21",
+        "Total_job_postings": 7748,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Jul-21",
+        "Total_job_postings": 7332,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Aug-21",
+        "Total_job_postings": 7258,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Sep-21",
+        "Total_job_postings": 7073,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Oct-21",
+        "Total_job_postings": 7529,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Nov-21",
+        "Total_job_postings": 8523,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Dec-21",
+        "Total_job_postings": 8476,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Jan-22",
+        "Total_job_postings": 7807,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Feb-22",
+        "Total_job_postings": 7003,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Mar-22",
+        "Total_job_postings": 7947,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Apr-22",
+        "Total_job_postings": 8056,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "May-22",
+        "Total_job_postings": 7274,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Jun-22",
+        "Total_job_postings": 6696,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Jul-22",
+        "Total_job_postings": 7118,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Aug-22",
+        "Total_job_postings": 6390,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Sep-22",
+        "Total_job_postings": 7023,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Month": "Oct-22",
+        "Total_job_postings": 6336,
+        "City": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3902651720124, 33.7489867501448]
+      }
+    }
+  ]
+}
