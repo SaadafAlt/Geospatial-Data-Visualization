@@ -421,7 +421,7 @@
                 "Injured": 1,
                 "Killed": 0,
                 "Factor1": "Unspecified",
-                "Hour": 15,
+                "Hour": 5,
                 "Day": "Fri",
                 "Casualty": 6262
             },
@@ -630,7 +630,7 @@
                     30.27113418
                 ]
             }
-        }, 
+        },
         {
             "type": "Feature",
             "properties": {
@@ -648,6 +648,1627 @@
                     30.27113418
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 0,
+                "Day": "Fri",
+                "Casualty": 4374
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 1,
+                "Day": "Fri",
+                "Casualty": 4628
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 2,
+                "Day": "Fri",
+                "Casualty": 5129
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 3,
+                "Day": "Fri",
+                "Casualty": 4868
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 4,
+                "Day": "Fri",
+                "Casualty": 4158
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 5,
+                "Day": "Fri",
+                "Casualty": 4659
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 6,
+                "Day": "Fri",
+                "Casualty": 5254
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 7,
+                "Day": "Fri",
+                "Casualty": 4413
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 8,
+                "Day": "Fri",
+                "Casualty": 4178
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 9,
+                "Day": "Fri",
+                "Casualty": 4997
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 10,
+                "Day": "Fri",
+                "Casualty": 5472
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 11,
+                "Day": "Fri",
+                "Casualty": 5946
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 12,
+                "Day": "Fri",
+                "Casualty": 5438
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 13,
+                "Day": "Fri",
+                "Casualty": 6440
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 14,
+                "Day": "Fri",
+                "Casualty": 6394
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 15,
+                "Day": "Fri",
+                "Casualty": 5188
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 16,
+                "Day": "Fri",
+                "Casualty": 3925
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 17,
+                "Day": "Fri",
+                "Casualty": 5628
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05828943,
+                    42.36026664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 0,
+                "Day": "Fri",
+                "Casualty": 4521
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 1,
+                "Day": "Fri",
+                "Casualty": 4280
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 2,
+                "Day": "Fri",
+                "Casualty": 4159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 3,
+                "Day": "Fri",
+                "Casualty": 4735
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 4,
+                "Day": "Fri",
+                "Casualty": 4294
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 5,
+                "Day": "Fri",
+                "Casualty": 5163
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 6,
+                "Day": "Fri",
+                "Casualty": 5066
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 7,
+                "Day": "Fri",
+                "Casualty": 4865
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 8,
+                "Day": "Fri",
+                "Casualty": 5465
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 9,
+                "Day": "Fri",
+                "Casualty": 5367
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 10,
+                "Day": "Fri",
+                "Casualty": 6661
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 11,
+                "Day": "Fri",
+                "Casualty": 6413
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 12,
+                "Day": "Fri",
+                "Casualty": 5630
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 13,
+                "Day": "Fri",
+                "Casualty": 5597
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 14,
+                "Day": "Fri",
+                "Casualty": 5711
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 15,
+                "Day": "Fri",
+                "Casualty": 5955
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 16,
+                "Day": "Fri",
+                "Casualty": 4941
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 17,
+                "Day": "Fri",
+                "Casualty": 5289
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84308916,
+                    35.22720491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 0,
+                "Day": "Fri",
+                "Casualty": 7043
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 1,
+                "Day": "Fri",
+                "Casualty": 7450
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 2,
+                "Day": "Fri",
+                "Casualty": 8096
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 3,
+                "Day": "Fri",
+                "Casualty": 7746
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 4,
+                "Day": "Fri",
+                "Casualty": 7191
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 5,
+                "Day": "Fri",
+                "Casualty": 7391
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 6,
+                "Day": "Fri",
+                "Casualty": 8414
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 7,
+                "Day": "Fri",
+                "Casualty": 8223
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 8,
+                "Day": "Fri",
+                "Casualty": 8731
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 9,
+                "Day": "Fri",
+                "Casualty": 9453
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 10,
+                "Day": "Fri",
+                "Casualty": 9657
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 11,
+                "Day": "Fri",
+                "Casualty": 9840
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 12,
+                "Day": "Fri",
+                "Casualty": 10261
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 13,
+                "Day": "Fri",
+                "Casualty": 9797
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 14,
+                "Day": "Fri",
+                "Casualty": 8741
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 15,
+                "Day": "Fri",
+                "Casualty": 7825
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 16,
+                "Day": "Fri",
+                "Casualty": 7171
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 17,
+                "Day": "Fri",
+                "Casualty": 7683
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62446221,
+                    41.87561213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 0,
+                "Day": "Fri",
+                "Casualty": 5589
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 1,
+                "Day": "Fri",
+                "Casualty": 5498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 2,
+                "Day": "Fri",
+                "Casualty": 6718
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 3,
+                "Day": "Fri",
+                "Casualty": 6046
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 4,
+                "Day": "Fri",
+                "Casualty": 6212
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 5,
+                "Day": "Fri",
+                "Casualty": 8019
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 6,
+                "Day": "Fri",
+                "Casualty": 6123
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 7,
+                "Day": "Fri",
+                "Casualty": 5840
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 8,
+                "Day": "Fri",
+                "Casualty": 5646
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 9,
+                "Day": "Fri",
+                "Casualty": 6194
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 10,
+                "Day": "Fri",
+                "Casualty": 6962
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 11,
+                "Day": "Fri",
+                "Casualty": 6601
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 12,
+                "Day": "Fri",
+                "Casualty": 6834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 13,
+                "Day": "Fri",
+                "Casualty": 6831
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 14,
+                "Day": "Fri",
+                "Casualty": 6830
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 15,
+                "Day": "Fri",
+                "Casualty": 5409
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 16,
+                "Day": "Fri",
+                "Casualty": 5012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 17,
+                "Day": "Fri",
+                "Casualty": 4878
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79685932,
+                    32.77627418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 0,
+                "Day": "Fri",
+                "Casualty": 4455
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 1,
+                "Day": "Fri",
+                "Casualty": 4008
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 2,
+                "Day": "Fri",
+                "Casualty": 3950
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 3,
+                "Day": "Fri",
+                "Casualty": 3682
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 4,
+                "Day": "Fri",
+                "Casualty": 3497
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 5,
+                "Day": "Fri",
+                "Casualty": 3400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 6,
+                "Day": "Fri",
+                "Casualty": 4077
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 7,
+                "Day": "Fri",
+                "Casualty": 4479
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 8,
+                "Day": "Fri",
+                "Casualty": 4606
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 9,
+                "Day": "Fri",
+                "Casualty": 3794
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 10,
+                "Day": "Fri",
+                "Casualty": 3888
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 11,
+                "Day": "Fri",
+                "Casualty": 4190
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 12,
+                "Day": "Fri",
+                "Casualty": 5249
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 13,
+                "Day": "Fri",
+                "Casualty": 5348
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 14,
+                "Day": "Fri",
+                "Casualty": 4422
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 15,
+                "Day": "Fri",
+                "Casualty": 3643
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 16,
+                "Day": "Fri",
+                "Casualty": 3618
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Injured": 1,
+                "Killed": 0,
+                "Factor1": "Unspecified",
+                "Hour": 17,
+                "Day": "Fri",
+                "Casualty": 3373
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848846,
+                    39.73926154
+                ]
+            }
         }
+        
     ]
 }
